@@ -1,0 +1,110 @@
+.header-title {
+  width: 200px;
+  padding: 10px;
+  margin: 0 0 0 0px;
+  font-size: 20px;
+  color: rgb(99, 108, 247);
+  display: flex;
+  display: inline-block;
+}
+.header-detail {
+  font-size: 15px;
+  color: rgb(99, 108, 247);
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  position:relative;‹
+  
+}
+.text {
+font-size: 70px;
+
+}
+.home {
+  width: 100px;
+  padding: 10px;
+  margin: 10px 5px;
+}
+
+.detail {
+  width: 100px;
+  padding: 10px;
+  margin: 10px 5px;
+}
+
+.recruit {
+  width: 100px;
+  padding: 10px;
+  margin: 10px 5px;
+}
+
+.inquiry {
+  width: 120px;
+  padding: 10px;
+  margin: 10px 5px;
+}
+
+body {
+  width: 100%;
+}
+p.sample {
+  font-family: "Gorditas", cursive;
+  font-size: 60px;
+}
+h2.conpany {
+  font-family: "Noto Serif JP", serif;
+}
+
+a.trial-btn {
+  width: 200px;
+  padding: 10px, 0px;
+  color: rgb(252, 248, 248);
+  background: linear-gradient(90deg, #ff5800, #8b00be);
+  box-shadow: 0 5px 0 rgba(34, 22, 22, 0.2);
+  border-radius: 30px;
+  margin: 100px auto 0;
+  text-align: center;
+  display: block;
+}
+
+div.card {
+  width: 360px;
+  margin: 100px, auto 0;
+  box-sizing: 360px;
+  margin: 100px auto 0;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+}
+img {
+  width: 360px;
+  margin: 0px;
+}
+.cat-card {
+  text-align: center;
+  font-size: 14px;
+  background-color: #008888;
+  width: 100px;
+  color: #ffffff;
+  content: 30px;
+  margin: 10px;
+}
+.breakfast {
+  font-size: 15px;
+  width: 100%;
+  padding: 0 0 0 10px;
+}
+.content-tag {
+  text-align: right;
+}
+.card-content-tag {
+  margin: 10px;
+  display: inline-block;
+  font-size: 12px;
+  text-align: right;
+  color: #008888;
+}
+.card-content-date {
+  margin: 10;
+  display: inline-block;
+  font-size: 12px;
+  text-align: right;
+}
