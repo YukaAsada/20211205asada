@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/reset.css" />
+  <link rel="stylesheet" href="./style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Gorditas&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Gorditas&family=Noto+Serif+JP:wght@900&display=swap"
+    rel="stylesheet">
+
+</head>
+
+<body>
+  <header>
+    <p class="title">COACHTECH</p>
+    <div class="menu">
+      <p class="home">ホーム</p>
+      <p class="detail">事業内容</p>
+      <p class="recruit">採用情報</p>
+      <p class="inquiry">お問い合わせ</p>
+    </div>
+  </header>
+  <div>
+    <p class="text">毎日を笑顔に</p>
+    <img src="img/firstview.jpeg" class="practice2">
+  </div>
+  <div class="bluebox"></div>
+  </body>
